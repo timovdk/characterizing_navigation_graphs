@@ -1,0 +1,2 @@
+http://www.movable-type.co.uk/scripts/latlong.html
+https://stackoverflow.com/questions/30700860/equirectangular-to-cubic-with-point-to-point-mapping
