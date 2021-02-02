@@ -1,3 +1,5 @@
 .vscode/settings.json
 data/video_files/*
+video_file/*
 data/head_tracking_data/*
+data/*

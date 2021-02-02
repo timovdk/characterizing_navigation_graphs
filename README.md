@@ -12,6 +12,4 @@
         
         Correct: “..\video_files\Help.mp4”
         
-    b. Another thing to note: For big_ng.ipynb to work you need all videos from Dropbox in the “..\characterizing_navigation_graphs\data\video_files” folder (as we index the videos, so with less videos the indices don't match up).
-
-4.	Now you should be able to run big_ng.ipynb
+    b. Another thing to note: For generate_pickle.ipynb to work you need all videos from Dropbox in the “..\characterizing_navigation_graphs\data\video_files” folder (as we index the videos, so with less videos the indices don't match up).
